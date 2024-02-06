@@ -5,8 +5,12 @@ public:
         while(j<nums.size()){
             if(nums[i]==nums[j])
             ++j;
-            else
-            nums[++i]=nums[j++];
+            else{
+                i++;
+            nums[i]=nums[j];
+                
+                j++;
+            }
         }
         return i+1;
     }
