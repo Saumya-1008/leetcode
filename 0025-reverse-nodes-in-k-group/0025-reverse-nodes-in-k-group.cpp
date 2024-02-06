@@ -1,3 +1,4 @@
+
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -10,37 +11,48 @@
  */
 class Solution {
 public:
-        int LinkListLen(ListNode* head){
-        int res = 0;
-        while(head!=NULL){
-            res++;head = head->next;
+    int getLength(ListNode* head) {
+        ListNode* temp = head;
+        int len = 0;
+        while(temp != NULL) {
+            len++;
+            temp = temp->next;
         }
-
-        return res;
+        return len;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        ListNode* ans = new ListNode(-1);
-        ListNode* dummy = ans;
-        int len = LinkListLen(head);
-        while(head!=NULL){
-            if(len>=k){
-                ListNode* tem = NULL;
-                for(int i=0;i<k;i++){
-                    ListNode* n = new ListNode(head->val);
-                    head = head->next;
-                    n->next = tem;
-                    tem = n;len--;
-                }
-                dummy->next = tem;
-                while(dummy->next!=NULL){
-                    dummy = dummy->next;
-                }
-            } else {
-                dummy->next=head;
-                break;
-            }
+        if(head == NULL ) {
+            return head;
         }
+        if(head->next == NULL) {
+            return head;
+        }
+
+        //1 case main solve karunga
+        ListNode* prev = NULL;
+        ListNode* curr = head;
+        ListNode* nextNode = curr->next;
+        int pos = 0;
         
-        return ans->next;
+        int len = getLength(head);
+        if(len < k) {
+            return head;
+        }
+
+        while(pos < k ){
+            nextNode = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = nextNode;
+            pos++;
+        }
+
+        ListNode* recursionKaAns = NULL;
+        if(nextNode != NULL) {
+            recursionKaAns = reverseKGroup(nextNode, k);
+            head->next = recursionKaAns;
+        }
+
+        return prev;
     }
 };
