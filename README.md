@@ -42,4 +42,12 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [1187-print-foobar-alternately](https://github.com/Saumya-1008/leetcode/tree/master/1187-print-foobar-alternately) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
