@@ -28,9 +28,14 @@ leetcode and gfg codes
 ## String
 |  |
 | ------- |
+| [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Sorting
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
