@@ -30,6 +30,7 @@ leetcode and gfg codes
 | ------- |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -38,6 +39,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Concurrency
 |  |
 | ------- |
@@ -50,4 +52,12 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
