@@ -6,6 +6,7 @@ leetcode and gfg codes
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -45,6 +46,7 @@ leetcode and gfg codes
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Concurrency
@@ -89,4 +91,8 @@ leetcode and gfg codes
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
