@@ -14,6 +14,7 @@ leetcode and gfg codes
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Saumya-1008/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saumya-1008/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ leetcode and gfg codes
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saumya-1008/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +69,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -102,4 +105,8 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
