@@ -44,6 +44,7 @@ leetcode and gfg codes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saumya-1008/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Saumya-1008/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Saumya-1008/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saumya-1008/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -118,4 +119,12 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saumya-1008/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/Saumya-1008/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
