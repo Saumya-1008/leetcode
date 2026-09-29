@@ -7,7 +7,7 @@ public:
         for(int i = 0; i < S.size(); i++) {
 
             if(S[i] == '(') {
-                // Keep '(' only if it is not the outermost one
+                
                 if(opened > 0)
                     ans += S[i];
 
@@ -17,7 +17,7 @@ public:
             if(S[i] == ')') {
                 opened--;
 
-                // Keep ')' only if it is not the outermost one
+            
                 if(opened > 0)
                     ans += S[i];
             }
