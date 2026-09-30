@@ -12,6 +12,7 @@ leetcode and gfg codes
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya-1008/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Saumya-1008/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saumya-1008/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -29,6 +30,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 ## Greedy
 |  |
@@ -56,6 +58,7 @@ leetcode and gfg codes
 | ------- |
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
