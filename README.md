@@ -14,6 +14,7 @@ leetcode and gfg codes
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Saumya-1008/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Saumya-1008/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saumya-1008/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -32,6 +33,7 @@ leetcode and gfg codes
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Saumya-1008/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Greedy
 |  |
 | ------- |
