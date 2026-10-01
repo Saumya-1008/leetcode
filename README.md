@@ -11,6 +11,7 @@ leetcode and gfg codes
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya-1008/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saumya-1008/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saumya-1008/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -25,6 +26,7 @@ leetcode and gfg codes
 | ------- |
 | [0001-two-sum](https://github.com/Saumya-1008/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saumya-1008/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -81,6 +83,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saumya-1008/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -100,6 +103,7 @@ leetcode and gfg codes
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saumya-1008/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saumya-1008/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saumya-1008/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Simulation
@@ -144,5 +148,6 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Saumya-1008/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Saumya-1008/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
