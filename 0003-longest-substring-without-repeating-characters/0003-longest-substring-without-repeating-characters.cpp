@@ -1,25 +1,36 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
+    // Uses last-seen positions
+    // to move the left boundary directly.
     int lengthOfLongestSubstring(string s) {
-        int n = s.length();
-        if (n == 0) return 0;
-        int res = 0;
-        
-        // Stores the last seen index of each character
-        vector<int> lastIndex(128, -1); 
-        int start = 0; // The starting index of the current window
+        unordered_map<char, int> lastSeen;
 
-        for (int end = 0; end < n; end++) {
-            // Jump the start of the window to the position after the last
-            // occurrence of the current character.
-            start = max(start, lastIndex[s[end]] + 1);
+        int left = 0;
+        int maxLen = 0;
 
-            // Update the result with the length of the current window
-            res = max(res, end - start + 1);
+        // Move right across the string.
+        for (int right = 0; right < s.size(); right++) {
 
-            // Update the last index of the current character
-            lastIndex[s[end]] = end;
+            // Move left only when the
+            // duplicate is inside the window.
+            if (
+                lastSeen.count(s[right]) &&
+                lastSeen[s[right]] >= left
+            ) {
+                left = lastSeen[s[right]] + 1;
+            }
+
+            lastSeen[s[right]] = right;
+
+            maxLen = max(
+                maxLen,
+                right - left + 1
+            );
         }
-        return res;
+
+        return maxLen;
     }
 };
