@@ -87,16 +87,19 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saumya-1008/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
 |  |
