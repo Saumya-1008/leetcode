@@ -99,6 +99,7 @@ leetcode and gfg codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
@@ -138,6 +139,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 ## Enumeration
 |  |
 | ------- |
