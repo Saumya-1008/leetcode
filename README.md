@@ -11,6 +11,7 @@ leetcode and gfg codes
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya-1008/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saumya-1008/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saumya-1008/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -99,6 +100,7 @@ leetcode and gfg codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Saumya-1008/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
