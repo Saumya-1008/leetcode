@@ -13,6 +13,7 @@ leetcode and gfg codes
 | [0128-longest-consecutive-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saumya-1008/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0260-single-number-iii](https://github.com/Saumya-1008/leetcode/tree/master/0260-single-number-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Saumya-1008/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -103,6 +104,7 @@ leetcode and gfg codes
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/Saumya-1008/leetcode/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Saumya-1008/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
