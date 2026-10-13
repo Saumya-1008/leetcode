@@ -78,6 +78,7 @@ leetcode and gfg codes
 | [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya-1008/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Saumya-1008/leetcode/tree/master/0338-counting-bits) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Saumya-1008/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Saumya-1008/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -105,6 +106,7 @@ leetcode and gfg codes
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Saumya-1008/leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/Saumya-1008/leetcode/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Saumya-1008/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Bitmask
