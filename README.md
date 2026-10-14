@@ -90,6 +90,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Saumya-1008/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saumya-1008/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -102,6 +103,7 @@ leetcode and gfg codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
@@ -172,4 +174,8 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
