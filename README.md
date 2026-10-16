@@ -9,6 +9,7 @@ leetcode and gfg codes
 | [0001-two-sum](https://github.com/Saumya-1008/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Saumya-1008/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/Saumya-1008/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saumya-1008/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
@@ -105,6 +106,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Saumya-1008/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Saumya-1008/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
@@ -179,5 +181,6 @@ leetcode and gfg codes
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Saumya-1008/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
