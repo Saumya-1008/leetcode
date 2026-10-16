@@ -89,6 +89,7 @@ leetcode and gfg codes
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Saumya-1008/leetcode/tree/master/0029-divide-two-integers) |
 | [0060-permutation-sequence](https://github.com/Saumya-1008/leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/Saumya-1008/leetcode/tree/master/0231-power-of-two) |
@@ -103,6 +104,7 @@ leetcode and gfg codes
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Saumya-1008/leetcode/tree/master/0029-divide-two-integers) |
 | [0089-gray-code](https://github.com/Saumya-1008/leetcode/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/Saumya-1008/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Saumya-1008/leetcode/tree/master/0191-number-of-1-bits) |
