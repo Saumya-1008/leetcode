@@ -1,20 +1,20 @@
 class Solution {
 public:
-   
     vector<int> grayCode(int n) {
-        if(n==1)
-        return {0,1};
-        
-        vector<int> t=grayCode(n-1);
-        vector<int>ans;
-        for(int i=0;i<(t.size());i++){
-            ans.push_back(t[i]);
+        // Calculate the number of Gray Code values
+        int size = 1 << n;
+
+        // Create a vector to store the result
+        vector<int> res;
+        res.reserve(size);
+
+        // Generate Gray Codes using XOR and right shift
+        for (int i = 0; i < size; ++i)
+        {
+            res.push_back(i ^ (i >> 1));
         }
-        for(int i=t.size()-1;i>=0;i--){
-             ans.push_back((1<<(n-1))+t[i]);
-        }
-        
-        return ans;
-        
+
+        // Return the generated sequence
+        return res;
     }
 };
