@@ -23,6 +23,7 @@ leetcode and gfg codes
 | [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Saumya-1008/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saumya-1008/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Saumya-1008/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saumya-1008/leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Saumya-1008/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -46,6 +47,7 @@ leetcode and gfg codes
 | [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1612-avoid-flood-in-the-city](https://github.com/Saumya-1008/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Saumya-1008/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saumya-1008/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@ leetcode and gfg codes
 | [0075-sort-colors](https://github.com/Saumya-1008/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Saumya-1008/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saumya-1008/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
