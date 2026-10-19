@@ -59,6 +59,7 @@ leetcode and gfg codes
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saumya-1008/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0006-zigzag-conversion](https://github.com/Saumya-1008/leetcode/tree/master/0006-zigzag-conversion) |
 | [0087-scramble-string](https://github.com/Saumya-1008/leetcode/tree/master/0087-scramble-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Saumya-1008/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Saumya-1008/leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
