@@ -73,6 +73,7 @@ leetcode and gfg codes
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Saumya-1008/leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3327-check-if-dfs-strings-are-palindromes](https://github.com/Saumya-1008/leetcode/tree/master/3327-check-if-dfs-strings-are-palindromes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Saumya-1008/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Saumya-1008/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
